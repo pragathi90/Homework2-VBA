@@ -14,17 +14,8 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ![stock Market](Images/stockmarket.jpg)
 
-### Easy
 
-* Create a script that will loop through one year of stock data for each run and return the total volume each stock had over that year.
-
-* You will also need to display the ticker symbol to coincide with the total stock volume.
-
-* Your result should look as follows (note: all solution images are for 2015 data).
-
-![easy_solution](Images/easy_solution.png)
-
-### Moderate
+### Hard
 
 * Create a script that will loop through all the stocks for one year for each run and take the following information.
 
@@ -42,9 +33,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ![moderate_solution](Images/moderate_solution.png)
 
-### Hard
 
-* Your solution will include everything from the moderate challenge.
 
 * Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
 
